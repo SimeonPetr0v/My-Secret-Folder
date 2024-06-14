@@ -136,7 +136,7 @@ namespace _20_Project_My_Secret_Folder
         private void CleanFileInfo()
         {
             this.labelFileNameValue.Text = "--";
-            //this.labelFileTypeValue.Text = "--";
+            
         }
 
         private void UpdatePath()
